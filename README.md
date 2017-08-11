@@ -22,7 +22,7 @@ I mainly worked on backend services of the platform and I made some small contri
 4. User Engagement
 
 ### Tournament Management
-<img src="https://raw.githubusercontent.com/chlee0925/Playphone_mSports-project/master/msports-gameplay.png" width="33%"> <img src="https://raw.githubusercontent.com/chlee0925/Playphone_mSports-project/master/matchmaking-leaderboard.png" width="33%"> <img src="https://raw.githubusercontent.com/chlee0925/Playphone_mSports-project/master/se-tournament.png" width="33%">
+<img src="https://raw.githubusercontent.com/chlee0925/Playphone_mSports-project/master/msports-gameplay.png" width="30%"> <img src="https://raw.githubusercontent.com/chlee0925/Playphone_mSports-project/master/matchmaking-leaderboard.png" width="30%"> <img src="https://raw.githubusercontent.com/chlee0925/Playphone_mSports-project/master/se-tournament.png" width="30%">
 
 I jointly worked on backend tournament management features that include:
 - Posting game scores
